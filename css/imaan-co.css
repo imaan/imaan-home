@@ -1374,6 +1374,7 @@ figcaption {
   font-family: Thicccboi, sans-serif;
   color: #333;
   font-weight: 400;
+  max-width: 800px;
 }
 
 .collection-list-wrapper {
